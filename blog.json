@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "site": "mstfa.site",
+  "author": "Mustafa F",
+  "generatedAt": "2026-07-02T09:16:56.275Z",
+  "totalPosts": 2,
+  "posts": [
+    {
+      "id": "tell-your-story",
+      "title": "Tell your story…",
+      "excerpt": "For my fellow writers drafting a new Medium article, you must have noticed, in the minimal but beautiful white screen we all see the same three words written in grey...",
+      "coverImage": "https://cdn-images-1.medium.com/max/640/1*Ej5VbYe8QsYJRs8tehbgAQ.jpeg",
+      "publishedAt": "Jun 25, 2026",
+      "readingTime": "5 min read",
+      "url": "https://medium.com/@mightbemufasa/tell-your-story-2b411be84341?source=rss-b40e57452335------2"
+    },
+    {
+      "id": "sup-medium",
+      "title": "‘Sup Medium",
+      "excerpt": "Well I’m very intrigued with where this blog will go, because I have no idea at all. Just want this space to be informal and fun! I’m gonna write poems,...",
+      "coverImage": "https://cdn-images-1.medium.com/max/1024/1*qxl-alc_rTLcA8_9t-0ruw.jpeg",
+      "publishedAt": "May 28, 2026",
+      "readingTime": "2 min read",
+      "url": "https://medium.com/@mightbemufasa/sup-my-first-blog-and-yours-070e1c4e9335?source=rss-b40e57452335------2"
+    }
+  ]
+}
