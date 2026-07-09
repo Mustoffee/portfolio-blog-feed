@@ -2,9 +2,18 @@
   "version": "1.0",
   "site": "mstfa.site",
   "author": "Mustafa F",
-  "generatedAt": "2026-07-02T11:43:35.919Z",
-  "totalPosts": 2,
+  "generatedAt": "2026-07-09T16:16:59.200Z",
+  "totalPosts": 3,
   "posts": [
+    {
+      "id": "youre-not-lazy-your-deadlines-are-too-long",
+      "title": "You’re Not Lazy. Your Deadlines Are Too Long.",
+      "excerpt": "Have you ever procrastinated a project until the night before its submission? And still completed it? I have. And so have just about all the creative minds at my former...",
+      "coverImage": "https://cdn-images-1.medium.com/max/1024/1*wR6Tqt71aZaDxVthwa3JQw.jpeg",
+      "publishedAt": "Jul 9, 2026",
+      "readingTime": "4 min read",
+      "url": "https://medium.com/@mightbemufasa/youre-not-lazy-your-deadlines-are-too-long-0dac1bd20fe2?source=rss-b40e57452335------2"
+    },
     {
       "id": "tell-your-story",
       "title": "Tell your story…",
